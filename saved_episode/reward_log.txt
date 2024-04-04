@@ -1,0 +1,9 @@
+game1: 1590
+game2: 1590
+game3: 1590
+game4: 1590
+game5: 1550
+game6: 2140
+game7: 1490
+game8: 2330
+game9: 1830
